@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sum_of_minterms_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="sum_of_minterms" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="66.470106469 ms"></ZoomStartTime>
+      <ZoomEndTime time="466.470106470 ms"></ZoomEndTime>
+      <Cursor1Time time="399.803439803 ms"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="346"></NameColumnWidth>
+      <ValueColumnWidth column_width="281"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wave_markers>
+      <marker time="399803439803" label="" />
+   </wave_markers>
+   <wvobject fp_name="/sum_of_minterms/a" type="logic">
+      <obj_property name="ElementShortName">a</obj_property>
+      <obj_property name="ObjectShortName">a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_of_minterms/b" type="logic">
+      <obj_property name="ElementShortName">b</obj_property>
+      <obj_property name="ObjectShortName">b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_of_minterms/c" type="logic">
+      <obj_property name="ElementShortName">c</obj_property>
+      <obj_property name="ObjectShortName">c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_of_minterms/output" type="logic">
+      <obj_property name="ElementShortName">output</obj_property>
+      <obj_property name="ObjectShortName">output</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_of_minterms/out1" type="logic">
+      <obj_property name="ElementShortName">out1</obj_property>
+      <obj_property name="ObjectShortName">out1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_of_minterms/out2" type="logic">
+      <obj_property name="ElementShortName">out2</obj_property>
+      <obj_property name="ObjectShortName">out2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_of_minterms/out3" type="logic">
+      <obj_property name="ElementShortName">out3</obj_property>
+      <obj_property name="ObjectShortName">out3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_of_minterms/not_a" type="logic">
+      <obj_property name="ElementShortName">not_a</obj_property>
+      <obj_property name="ObjectShortName">not_a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_of_minterms/not_b" type="logic">
+      <obj_property name="ElementShortName">not_b</obj_property>
+      <obj_property name="ObjectShortName">not_b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_of_minterms/outputoutput" type="logic">
+      <obj_property name="ElementShortName">outputoutput</obj_property>
+      <obj_property name="ObjectShortName">outputoutput</obj_property>
+   </wvobject>
+</wave_config>
