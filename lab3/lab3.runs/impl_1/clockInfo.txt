@@ -1,0 +1,10 @@
+-------------------------------------
+| Tool Version : Vivado v.2023.2
+| Date         : Thu Mar 21 09:55:40 2024
+| Host         : BERTINMIHIG83B2
+| Design       : checkpoint_converter
+| Device       : xc7a100t-csg324-3--
+-------------------------------------
+
+For more information on clockInfo.txt clock routing debug file see https://support.xilinx.com/s/article/000035660?language=en_US
+
