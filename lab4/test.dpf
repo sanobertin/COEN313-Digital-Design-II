@@ -1,0 +1,13 @@
+---
+# Note: The contents of this file are automatically generated.
+# Any changes made by hand may be overwritten.
+version: '0.2'
+work_dir: /Volumes/B_MIHIGO/lab4_encs/lab4_encs.srcs/sources_1/imports/lab4/
+design_root_dir: /Volumes/B_MIHIGO/lab4_encs/lab4_encs.srcs/sources_1/imports/lab4/
+simulations: []
+source_files:
+  - language: vhdl
+    path: >-
+      /Volumes/B_MIHIGO/lab4_encs/lab4_encs.srcs/sources_1/imports/lab4/registers_min_max.vhd
+library_search_paths:
+  - $STD_LIBS/ieee93

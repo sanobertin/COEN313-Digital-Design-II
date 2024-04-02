@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="b_mihigo" Host="mescalero.encs.concordia.ca" Pid="12336">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="b_mihigo" Host="mescalero.encs.concordia.ca" Pid="22580">
+    </Process>
+</ProcessHandle>

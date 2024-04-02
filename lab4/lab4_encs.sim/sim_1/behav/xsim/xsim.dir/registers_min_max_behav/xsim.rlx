@@ -1,0 +1,12 @@
+
+{ 
+    crc :  237044471103259068  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto c7ddc693fead4be58dd45d453bcb9fb7 --incr --debug typical --relax --mt 8 -L work -L secureip --snapshot registers_min_max_behav work.registers_min_max" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:07:38" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/registers_min_max_behav/xsimk\"   \"xsim.dir/registers_min_max_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/registers_min_max_behav/obj/xsim_1.lnx64.o\" \"/CMC/tools/xilinx/Vivado_2018.2/Vivado/2018.2/lib/lnx64.o/librdi_simulator_kernel.so\"  \"/CMC/tools/xilinx/Vivado_2018.2/Vivado/2018.2/lib/lnx64.o/librdi_simbridge_kernel.so\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

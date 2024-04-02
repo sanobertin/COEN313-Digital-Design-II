@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="registers_min_max_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="registers_min_max" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="400000000000001fs"></ZoomEndTime>
+      <Cursor1Time time="400000000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="142"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject type="array" fp_name="/registers_min_max/din">
+      <obj_property name="ElementShortName">din[3:0]</obj_property>
+      <obj_property name="ObjectShortName">din[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/registers_min_max/reset">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/registers_min_max/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/registers_min_max/sel">
+      <obj_property name="ElementShortName">sel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">sel[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/registers_min_max/max_out">
+      <obj_property name="ElementShortName">max_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">max_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/registers_min_max/min_out">
+      <obj_property name="ElementShortName">min_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">min_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/registers_min_max/reg_out">
+      <obj_property name="ElementShortName">reg_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/registers_min_max/display_register">
+      <obj_property name="ElementShortName">display_register[3:0]</obj_property>
+      <obj_property name="ObjectShortName">display_register[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/registers_min_max/D_wire">
+      <obj_property name="ElementShortName">D_wire[3:0][3:0]</obj_property>
+      <obj_property name="ObjectShortName">D_wire[3:0][3:0]</obj_property>
+   </wvobject>
+</wave_config>
