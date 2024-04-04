@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Apr  2 22:52:09 2024
+# Process ID: 9804
+# Current directory: /nfs/home/b/b_mihigo/lab4_encs/lab4_encs.sim/sim_1/impl/func/xsim
+# Command line: wbtcv -mode batch -source /nfs/home/b/b_mihigo/lab4_encs/lab4_encs.sim/sim_1/impl/func/xsim/xsim.dir/registers_min_max_func_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /nfs/home/b/b_mihigo/lab4_encs/lab4_encs.sim/sim_1/impl/func/xsim/webtalk.log
+# Journal file: /nfs/home/b/b_mihigo/lab4_encs/lab4_encs.sim/sim_1/impl/func/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /nfs/home/b/b_mihigo/lab4_encs/lab4_encs.sim/sim_1/impl/func/xsim/xsim.dir/registers_min_max_func_impl/webtalk/xsim_webtalk.tcl -notrace

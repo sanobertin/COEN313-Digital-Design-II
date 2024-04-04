@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1712085819">
-  <File Type="VDS-TIMING-PB" Name="registers_min_max_timing_summary_synth.pb"/>
-  <File Type="VDS-TIMINGSUMMARY" Name="registers_min_max_timing_summary_synth.rpt"/>
+  <File Type="PA-TCL" Name="registers_min_max.tcl"/>
+  <File Type="REPORTS-TCL" Name="registers_min_max_reports.tcl"/>
+  <File Type="RDS-RDS" Name="registers_min_max.vds"/>
   <File Type="RDS-DCP" Name="registers_min_max.dcp"/>
   <File Type="RDS-UTIL-PB" Name="registers_min_max_utilization_synth.pb"/>
   <File Type="RDS-UTIL" Name="registers_min_max_utilization_synth.rpt"/>
-  <File Type="RDS-PROPCONSTRS" Name="registers_min_max_drc_synth.rpt"/>
-  <File Type="RDS-RDS" Name="registers_min_max.vds"/>
-  <File Type="REPORTS-TCL" Name="registers_min_max_reports.tcl"/>
-  <File Type="PA-TCL" Name="registers_min_max.tcl"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/imports/lab4/registers_min_max.vhd">

@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl work  \
+"registers_min_max_func_impl.vhd" \
+
+# Do not sort compile order
+nosort
